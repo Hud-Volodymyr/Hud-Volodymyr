@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@LoLyPoPx3](https://t.me/LoLyPoPx3)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [v.gud2001@gmail.com](mailto:v.gud2001@gmail.com)</code>
